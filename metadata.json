@@ -1,0 +1,6 @@
+{
+  "name": "Katumbiri Kustome Cake",
+  "description": "Toko kue dan brownies artisan terpercaya untuk perayaan istimewa dengan resep cokelat Belgia asli dan custom cake fresh dari oven.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
